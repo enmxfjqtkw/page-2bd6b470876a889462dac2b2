@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "987a089544cc44a35122e34c",
+  "owner": "enmxfjqtkw",
+  "repo": "page-2bd6b470876a889462dac2b2",
+  "title": "光猫",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2bd6b470876a889462dac2b2",
+      "a": "光猫",
+      "b": "稳定全球clash加速器",
+      "entity": "光猫",
+      "brand": "光猫",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2becff3f16cafd4bc072e5d38b0612176b0ab0bda57cec4d4d88a5502379fcdf",
+      "content": {
+        "primary_entity": "光猫",
+        "keyword1": "光猫",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选适配客户端，Windows、macOS、Android、iOS 与路由器各有对应版本，安装后导入订阅即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好设备和套餐，导入订阅就能开始连接。",
+          "AI_CLOSING_TITLE": "开启稳定连接",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置和套餐对比展开，提供基础版、旗舰版与团队版三档方案，分别对应不同流量、在线设备数和线路权益，方便按日常使用强度挑选合适订阅。",
+          "AI_FAQ_ANSWER_1": "基础版适合单人或双人轻量使用，每月 100GB 流量和 3 台设备在线；旗舰版流量提升到 300GB，支持 5 台设备并增加专线节点，适合家庭或高频使用。",
+          "AI_FAQ_ANSWER_2": "可以。同一订阅可在套餐允许的设备数量内同时登录，但建议不要超出上限，否则可能出现连接异常。",
+          "AI_FAQ_ANSWER_3": "月付适合短期体验，年付通常更划算，例如基础版按年付仅需 ¥150/年。长期使用建议直接选年付方案。",
+          "AI_FAQ_ANSWER_4": "在客户端内删除旧订阅，重新添加最新订阅链接，保存后更新节点列表即可。不同客户端的导入位置略有差异，可参考对应文档。",
+          "AI_FAQ_ANSWER_5": "旗舰版支持 IPLC 专线游戏加速优化，适合对延迟敏感的场景；团队版则提供 VIP 高带宽节点，适合多人协作或高流量需求。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版主要区别是什么？",
+          "AI_FAQ_QUESTION_2": "可以同时在多台设备上使用同一个订阅吗？",
+          "AI_FAQ_QUESTION_3": "月付和年付怎么选比较合适？",
+          "AI_FAQ_QUESTION_4": "订阅链接在客户端里如何更新？",
+          "AI_FAQ_QUESTION_5": "哪个套餐更适合游戏或企业场景？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度和线路权益三个角度挑选，就能快速匹配适合的套餐。",
+          "AI_FEATURES_TITLE": "套餐与设备搭配要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备在线，旗舰版 5 台，团队版 20 台，按常用设备数选择即可。",
+          "AI_FEATURE_TEXT_2": "基础版 100GB、旗舰版 300GB、团队版 1000GB 月流量，高频使用建议选旗舰版以上。",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏加速，团队版提供 VIP 高带宽节点并支持企业定制路由。",
+          "AI_FEATURE_TITLE_1": "按设备数选择",
+          "AI_FEATURE_TITLE_2": "按流量需求选择",
+          "AI_FEATURE_TITLE_3": "按线路权益选择",
+          "AI_GUIDE_INTRO": "先确定使用设备与套餐，再按客户端文档完成订阅导入。",
+          "AI_GUIDE_TITLE": "配置订阅三步",
+          "AI_HERO_INTRO": "光猫提供稳定全球连接订阅服务，覆盖常用桌面与移动客户端，按设备数量、月流量和线路权益划分三档套餐，帮助用户按实际使用场景挑选合适方案。",
+          "AI_HERO_SUBTITLE": "按设备与流量选合适套餐",
+          "AI_HIGHLIGHT_1": "三档套餐适配不同设备规模",
+          "AI_HIGHLIGHT_2": "多平台客户端按需选择",
+          "AI_HIGHLIGHT_3": "旗舰版含专线游戏加速优化",
+          "AI_PLANS_INTRO": "基础版 ¥15/月适合轻量用户，旗舰版 ¥35/月增加专线节点，团队版 ¥85/月面向多人高流量场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量和月流量需求，在基础版、旗舰版、团队版中选定一个套餐。",
+          "AI_STEP_TEXT_2": "确认设备数量上限与线路权益，核对所选套餐是否满足日常使用强度。",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅链接，保存后更新节点列表即可开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "光猫全球加速订阅"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--osvv33c9ja338f.org",
+    "host": "xn--osvv33c9ja338f.org"
+  },
+  "file_hashes": {
+    "index.html": "d2579a734e53ea61ab1918f956fa58060d6e31f2d9818b3fc11de0bb26ae968c",
+    "sitemap.xml": "154424b87fc56f617deaad69fee16fa370f79bf31ff034800404be956a154170",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "525d56401627383bfe4caa9f0c116862f505bb97cc44bf332daf0174c8c76a3f",
+    "robots.txt": "9717e72da5a367e47fc044964f678a16323251842f5ff18b61b9b8a09efd99eb",
+    "a839bd05104c269d55f6ad7ee5c37c44.txt": "78bbbc9d2403a8b7e3b19063bb6c72b35dd41b70fe00e3ebe12e0db69d534c2a"
+  },
+  "revision": "cccc8a2ebb24f331c9bcc364588b5df1f850f1c2fe87c34314250454084b6241"
+}
